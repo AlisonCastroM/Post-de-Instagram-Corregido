@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    background-color: black;
+
+}
+
+#carta {
+    margin-top: 100px;
+    width: 50%; 
+    max-width: 1200px; 
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+}
+
+
+
+
+#im{
+margin-left: 0%;
+
+
+width: 100%;
+}
+
+.encabezado{
+    display: flex;
+ margin-left: 10px;
+ margin-right: 10px;
+
+}
+
+.encabezado h4{
+    margin-left: 5px;
+    margin-top: 0;
+}
+
+.encabezado p{
+    margin-left: -55px;
+    margin-top: 20px;
+}
+
+.encabezado svg{
+ margin-left: auto;
+
+}
+
+
+.iconos{
+display: flex;
+margin-left: 20px;
+margin-top: 10px;
+
+}
+.bookmark-icon {
+    font-size: 44px; 
+    line-height: 1;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+
+.pie{
+margin-left: 10px;
+margin-right: 10px;
+
+}
